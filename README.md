@@ -1,25 +1,23 @@
-# Bulma Hotel Template
+# Plantilla de Petit
 
-Part of [Awesome Bulma Templates](https://github.com/aldi/awesome-bulma-templates) repo
+## Descripción
 
-## [Live Demo](https://aldi.github.io/bulma-hotel-template/index.html)
+Esta es una plantilla de sitio web para hoteles, moderna y responsiva, construida con el framework CSS Bulma. Es ideal para mostrar habitaciones, servicios, galería de fotos e información de contacto.
 
-![Screenshot](screenshot.png)
+## Tecnologías Utilizadas
 
-## Additional Libraries used
+- **HTML5**
+- **CSS3** (con variables CSS personalizadas)
+- **[Bulma CSS Framework](https://bulma.io/)**
+- **JavaScript** (Vanilla JS)
 
-Font-Awesome - [github.com/FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)  
-Bulma-Carousel - [github.com/Wikiki/bulma-carousel](https://github.com/Wikiki/bulma-carousel)  
-Bulma-Social - [github.com/aldi/bulma-social](https://github.com/aldi/bulma-social)
+## Librerías Adicionales
 
-## Contributing
+- Font-Awesome - [github.com/FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
+- Bulma-Carousel - [github.com/Wikiki/bulma-carousel](https://github.com/Wikiki/bulma-carousel)
+- Bulma-Social - [github.com/aldi/bulma-social](https://github.com/aldi/bulma-social)
 
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request!
+## Uso
 
-## Licence
+Simplemente abra el archivo `index.html` en su navegador web favorito para ver el sitio. No se requiere compilación ni servidor backend para la versión estática.
 
-Code released under [the MIT license](https://github.com/aldi/bulma-hotel-template/blob/master/LICENSE).
